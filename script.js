@@ -36,5 +36,4 @@ clearBtn.addEventListener("click", function () {
   count = 0;
   updateUI();
 });
-
 updateUI();
